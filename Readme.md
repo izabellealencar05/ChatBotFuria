@@ -13,7 +13,8 @@ Um chatbot interativo feito em HTML, CSS e JavaScript para os fãs da FURIA e am
 
 ## 🖼️ Preview
 
-![preview do bot](assets/preview.png) <!-- adicione um screenshot do chat aqui! -->
+![image](https://github.com/user-attachments/assets/6d648713-650e-4fb5-be3a-39faf3200d97)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
