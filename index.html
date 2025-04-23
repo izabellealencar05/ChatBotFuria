@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bot da FURIA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="assets/logoFuria.png" alt="Logo FURIA" class="logo" />
+      <h1>Bot da FURIA</h1>
+      <p>Sinta a fúria!</p>
+    </header>
+
+    <div class="chat-box" id="chat-box">
+      <div class="bot-msg">Oi! Sou o bot da FURIA. Bora acompanhar o time de CS?</div>
+    </div>
+
+    <div class="options">
+      <button onclick="responder('jogo')">Qual o próximo Jogo?</button>
+      <button onclick="responder('elenco')">Escalação Atual</button>
+      <button onclick="responder('curiosidade')">Curiosidade</button>
+      <button onclick="responder('loja')">Loja da FURIA</button>
+      <button onclick="responder('resetar')">Resetar o chat</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

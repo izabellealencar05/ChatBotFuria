@@ -1,0 +1,10 @@
+{
+  "jogo": {
+    "oponente": "NAVI",
+    "data": "Sexta-feira",
+    "horario": "20h (horário de Brasília)"
+  },
+  "elenco": {
+    "jogadores": ["KSCERATO", "yuurih", "arT", "saffee", "chelo"]
+  }
+}
