@@ -52,7 +52,6 @@ Responsável pela lógica de funcionamento do bot:
 - Para as demais opções:
   - `jogo`: exibe informações sobre o próximo confronto.
   - `elenco`: lista os jogadores atuais.
-  - `clipes`: gera links clicáveis com os clipes recentes.
   - `curiosidade`: mostra uma curiosidade aleatória.
 
 ```js
