@@ -97,10 +97,6 @@ git clone https://github.com/izabellealencar05/ChatBotFuria
 
 > 💡 Não é necessário nenhum servidor ou instalação — funciona 100% localmente!
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
 ---
 
 Feito com Fúria por Izabelle Alencar 💜
