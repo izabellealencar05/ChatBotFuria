@@ -7,7 +7,6 @@ Um chatbot interativo feito em HTML, CSS e JavaScript para os fãs da FURIA e am
 - 📅 Exibe o próximo jogo da FURIA
 - 🧑‍🤝‍🧑 Mostra a line-up atual do time
 - 🤯 Traz curiosidades aleatórias sobre a FURIA
-- 🎥 Links para os clipes mais recentes
 - 🛍️ Acesso direto à [Loja da FURIA](https://acesse.one/LojaDaFuria)
 - 🔄 Botão para resetar a conversa
 
